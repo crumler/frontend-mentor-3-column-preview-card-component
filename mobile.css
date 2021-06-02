@@ -1,5 +1,38 @@
 @media (min-width: 320px) and (max-width: 480px) {
   .content-container {
     flex-direction: column;
+    height: auto;
+    width: 90%;
+    margin: 80px 0;
+  }
+
+  .body-container {
+    height: 100%;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .content-container {
+    flex-direction: column;
+    height: auto;
+    width: 90%;
+    margin: 80px 0;
+  }
+
+  .body-container {
+    height: 100%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .content-container {
+    flex-direction: column;
+    height: auto;
+    width: 90%;
+    margin: 80px 0;
+  }
+
+  .body-container {
+    height: 100%;
   }
 }
