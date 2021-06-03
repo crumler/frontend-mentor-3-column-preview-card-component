@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Submitted FrontEndMentor.io Solution](https://www.frontendmentor.io/solutions/utilized-html-css-with-flexbox-and-css-variables-QoMCEmEgt)
+- Live Site URL: [Live Site Solution](https://crumler.github.io/frontend-mentor-3-column-preview-card-component/)
 
 ## My process
 
