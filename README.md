@@ -60,5 +60,5 @@ I also have issue with how the buttons shift unevenly with each other when the b
 
 ## Author
 
-- Website - [Chris Rumler](https://www.chrisrumler.com)
+- Website - [Chris Rumler](http://www.chrisrumler.com)
 - Frontend Mentor - [@crumler](https://www.frontendmentor.io/profile/crumler)
